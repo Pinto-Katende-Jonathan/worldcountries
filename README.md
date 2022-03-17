@@ -1,2 +1,2 @@
 # worldcountries
-This is a liste of all countries
+This is a list of all countries
